@@ -1,0 +1,12 @@
+C:\Development\Challenge\Entities\bin\Debug\net8.0\Common.Entities.deps.json
+C:\Development\Challenge\Entities\bin\Debug\net8.0\Common.Entities.dll
+C:\Development\Challenge\Entities\bin\Debug\net8.0\Common.Entities.pdb
+C:\Development\Challenge\Entities\obj\Debug\net8.0\Common.Entities.csproj.AssemblyReference.cache
+C:\Development\Challenge\Entities\obj\Debug\net8.0\Common.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Challenge\Entities\obj\Debug\net8.0\Common.Entities.AssemblyInfoInputs.cache
+C:\Development\Challenge\Entities\obj\Debug\net8.0\Common.Entities.AssemblyInfo.cs
+C:\Development\Challenge\Entities\obj\Debug\net8.0\Common.Entities.csproj.CoreCompileInputs.cache
+C:\Development\Challenge\Entities\obj\Debug\net8.0\Common.Entities.dll
+C:\Development\Challenge\Entities\obj\Debug\net8.0\refint\Common.Entities.dll
+C:\Development\Challenge\Entities\obj\Debug\net8.0\Common.Entities.pdb
+C:\Development\Challenge\Entities\obj\Debug\net8.0\ref\Common.Entities.dll

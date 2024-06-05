@@ -1,0 +1,15 @@
+C:\Development\Challenge\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Development\Challenge\Domain\bin\Debug\net8.0\Domain.dll
+C:\Development\Challenge\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Development\Challenge\Domain\bin\Debug\net8.0\Common.Entities.dll
+C:\Development\Challenge\Domain\bin\Debug\net8.0\Common.Entities.pdb
+C:\Development\Challenge\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Development\Challenge\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Challenge\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Development\Challenge\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Development\Challenge\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Development\Challenge\Domain\obj\Debug\net8.0\Domain.csproj.Up2Date
+C:\Development\Challenge\Domain\obj\Debug\net8.0\Domain.dll
+C:\Development\Challenge\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Development\Challenge\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Development\Challenge\Domain\obj\Debug\net8.0\ref\Domain.dll
